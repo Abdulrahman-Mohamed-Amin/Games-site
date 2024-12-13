@@ -1,6 +1,8 @@
 # 🎮 Mini Games Website
 
 Mini Games Website is a collection of fun and interactive games built using **HTML** and **CSS** only, demonstrating how creative design can provide entertainment without the need for JavaScript. ✨
+https://abdulrahman-mohamed-amin.github.io/Games-site/
+[Project Demo]([URL](https://abdulrahman-mohamed-amin.github.io/Games-site/))
 
 ## 🎯 Features  
 - 🕹️ **Variety of Games**: Includes simple games like Tic-Tac-Toe (decorative), a Maze Challenge, and Memory Match (with pure CSS effects).  
